@@ -161,11 +161,11 @@ jobs:
             "JCG_AC860M": {
               "model": "JCG-AC860M"
             },
-            "JCG_Q20": {
-              "model": "JCG-Q20"
-            },
             "JCG_Q20-PB": {
               "model": "JCG-Q20-PB"
+            },
+            "JCG_Q20": {
+              "model": "JCG-Q20"
             },
             "JCG_Q10Pro": {
               "model": "JCG-Q10Pro"
