@@ -313,7 +313,7 @@ jobs:
       run: |
         git clone $REPOSITORY_URL $WORK_PATH
         cd $WORK_PATH
-        git reset --hard ed3beb20b43eb4c9e803fdeeb20a324b649c5763
+        git reset --hard e4b64373d2d589c6897fad07dbfc0ae70fcff036
         sed -i '/cp -f/d' Makefile
     - name: Extract toolchain
       run: |
